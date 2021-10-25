@@ -185,7 +185,7 @@
                                     </div> <!-- end card-body -->
                                 </div> <!-- end card-->
 
-                                <div class="card cta-box bg-info text-white">
+                                {{-- <div class="card cta-box bg-info text-white">
                                     <div class="card-body">
                                         <div class="media align-items-center">
                                             <div class="media-body">
@@ -200,11 +200,11 @@
                                         </div>
                                     </div>
                                     <!-- end card-body -->
-                                </div>
+                                </div> --}}
                             </div> <!-- end col-->
                         </div>
                         <!-- end row -->
-
+{{-- 
                         <div class="row">
                             <div class="col-xl-9">
                                 <div class="card">
@@ -669,7 +669,7 @@
                                     </div> <!-- end .table-responsive-->
                                 </div> <!-- end card-box-->
                             </div> <!-- end col -->
-                        </div>
+                        </div> --}}
                         
                     </div> <!-- container -->
 @endsection

@@ -13,23 +13,23 @@
                 <li>
                     <a href="javascript: void(0);">
                         <i class="la la-dashboard"></i>
-                        <span class="badge badge-info badge-pill float-right">2</span>
+                        {{-- <span class="badge badge-info badge-pill float-right">2</span> --}}
                         <span> Dashboards </span>
                     </a>
-                    <ul class="nav-second-level" aria-expanded="false">
+                    {{-- <ul class="nav-second-level" aria-expanded="false">
                         <li>
                             <a href="index">Dashboard 1</a>
                         </li>
                         <li>
                             <a href="dashboard-2">Dashboard 2</a>
                         </li>
-                    </ul>
+                    </ul> --}}
                 </li>
 
                 <li>
                     <a href="javascript: void(0);">
                         <i class="la la-cube"></i>
-                        <span> Apps </span>
+                        <span> Users </span>
                         <span class="menu-arrow"></span>
                     </a>
                     <ul class="nav-second-level" aria-expanded="false">
@@ -45,7 +45,7 @@
                     </ul>
                 </li>
 
-                <li>
+                {{-- <li>
                     <a href="javascript: void(0);">
                         <i class="la la-clone"></i>
                         <span> Layouts </span>
@@ -71,8 +71,8 @@
                             <a href="layouts-boxed">Boxed</a>
                         </li>
                     </ul>
-                </li>
-                
+                </li> --}}
+{{--                 
                 <li>
                     <a href="javascript: void(0);">
                         <i class="la la-envelope"></i>
@@ -164,9 +164,9 @@
                             <a href="extras-coming-soon">Coming Soon</a>
                         </li>
                     </ul>
-                </li>
+                </li> --}}
 
-                <li class="menu-title mt-2">Components</li>
+                <li class="menu-title mt-2">Penjualan</li>
 
                 <li>
                     <a href="javascript: void(0);">

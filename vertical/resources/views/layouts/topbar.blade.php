@@ -183,7 +183,7 @@
                 <span></span>
             </button>
         </li>
-        
+{{--         
         <li class="dropdown d-none d-lg-block">
             <a class="nav-link dropdown-toggle waves-effect" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                 Reports
@@ -311,7 +311,7 @@
                 </div>
 
             </div>
-        </li>
+        </li> --}}
     </ul>
 </div>
 <!-- end Topbar -->

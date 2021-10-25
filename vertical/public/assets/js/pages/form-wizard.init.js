@@ -147,7 +147,7 @@ $(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\js\pages\form-wizard.init.js */"./resources/js/pages/form-wizard.init.js");
+module.exports = __webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/js/pages/form-wizard.init.js */"./resources/js/pages/form-wizard.init.js");
 
 
 /***/ })

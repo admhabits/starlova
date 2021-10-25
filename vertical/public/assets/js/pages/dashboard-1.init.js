@@ -352,11 +352,11 @@ $('#usa-map').vectorMap({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\js\pages\dashboard-1.init.js */"./resources/js/pages/dashboard-1.init.js");
-__webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\scss\bootstrap.scss */"./resources/scss/bootstrap.scss");
-__webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\scss\icons.scss */"./resources/scss/icons.scss");
-__webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\scss\app-rtl.scss */"./resources/scss/app-rtl.scss");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\Xeria-laravel-vertical\resources\scss\app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/js/pages/dashboard-1.init.js */"./resources/js/pages/dashboard-1.init.js");
+__webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/scss/bootstrap.scss */"./resources/scss/bootstrap.scss");
+__webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/scss/icons.scss */"./resources/scss/icons.scss");
+__webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/scss/app-rtl.scss */"./resources/scss/app-rtl.scss");
+module.exports = __webpack_require__(/*! /home/alam/Public/xeria-admin/vertical/resources/scss/app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
